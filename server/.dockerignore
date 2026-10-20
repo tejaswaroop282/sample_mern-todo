@@ -1,0 +1,13 @@
+# Keeps secrets and bulky files out of the image.
+node_modules
+npm-debug.log*
+.env
+.env.*
+!.env.example
+.git
+.gitignore
+Dockerfile
+.dockerignore
+coverage
+test
+tests
